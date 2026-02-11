@@ -1,60 +1,69 @@
-# Hi, I'm Clemens Hoenig
+# Clemens Hoenig
 
-**Full-Stack Developer & AI Engineer** based in Vienna. I build AI-powered products, developer tools, and systems-level software across TypeScript, Rust, and Python.
+**Agentic Software Engineer** based in Vienna. I build autonomous AI systems, multi-agent orchestration, and full-stack products that ship.
 
-## What I Build
+I work across the stack - from Rust systems programming to React frontends - with a focus on agentic architectures: AI agents that browse, research, decide, and execute autonomously.
 
-I turn AI capabilities into practical, shippable products - from on-device AI with Gemini Nano to cloud-scale multi-agent orchestration. I care about developer experience, clean architecture, and making complex technology feel simple.
+---
 
-## Featured Projects
+## Selected Work
 
 ### [Perpetua](https://github.com/Clemens865/Perpetua)
-AI-powered knowledge and workflow platform for capturing, connecting, and surfacing information when you need it. Built with TypeScript.
+AI-native knowledge platform. Captures, connects, and surfaces information through intelligent agents. TypeScript.
 
 ### [Console-Buddy](https://github.com/Clemens865/Console-Buddy)
-DevTools companion with AI-powered error analysis - paste a stack trace, get a fix. Understands your console output and suggests solutions in context.
+AI-powered DevTools companion. Understands your console output, analyzes stack traces, and suggests fixes in context. 34 stars.
+
+### [Rabbit](https://github.com/Clemens865/Rabbit-OS)
+Agentic browser - an autonomous browsing agent that navigates, extracts, and reasons over web content without human intervention.
+
+### [DeepNote-AI](https://github.com/Clemens865/DeepNote-AI)
+AI note-taking and knowledge synthesis. Transforms unstructured input into structured, searchable intelligence.
 
 ### [Phago Project](https://github.com/Clemens865/Phago_Project)
-Systems-level project built in Rust, exploring performance-critical architecture and memory-safe design patterns.
+Systems-level Rust project exploring memory-safe, performance-critical architecture patterns.
 
 ### [MicroLabs](https://github.com/Clemens865/micro-labs-chrome)
-100 AI micro-apps in a single Chrome extension - research agents, data visualization, code tools, meeting transcription, PDF analysis, and more. React 19 + Google Gemini.
+100 AI micro-apps in one Chrome extension. Research agents, data visualization, meeting transcription, PDF analysis, code tools. React 19 + Gemini.
+
+### [Claude-Flow](https://github.com/Clemens865/claude-flow)
+Multi-agent orchestration framework for Claude Code. Swarm coordination, task routing, and autonomous agent pipelines.
 
 ### [Buildible](https://github.com/Clemens865/Buildible)
-Open-source AI app builder - a local-first alternative to v0, Lovable, and Bolt. Generate full applications from prompts without sending your code to the cloud.
+Open-source AI app builder. Local-first alternative to v0/Lovable/Bolt - generate full applications from prompts.
 
 ### [Yourstudio](https://github.com/Clemens865/Yourstudio)
-Open-source website builder - visual editing meets code generation for rapid site creation.
+Open-source website builder. Visual editing meets AI-powered code generation.
 
 ### [Claude-Experimental](https://github.com/Clemens865/Claude-Experimental)
-Rust-based experiments with Claude AI integration - exploring high-performance AI tooling at the systems level.
+Rust + Claude API experiments. High-performance AI tooling at the systems level.
 
 ### [AI Cinematographer](https://github.com/Clemens865/Ai-cinematographer)
-AI-powered video and cinematic content creation tool built with TypeScript.
+AI-driven cinematic content generation. Automated video composition and visual storytelling.
 
 ### [DevDigger](https://github.com/Clemens865/devdigger)
-Knowledge base CLI for AI coding assistants - crawl, index, and semantically search documentation from your terminal.
+CLI knowledge base for AI coding assistants. Crawl, index, and semantically search any documentation.
 
 ### [WebhookBuddy](https://github.com/Clemens865/WebhookBuddy)
-Connect your browser to automation platforms (Make, Zapier, n8n) with a lightweight Chrome extension.
+Browser-to-automation bridge. Connect Chrome to Make, Zapier, and n8n. 10 stars.
 
-## Tech Stack
+---
 
-| Domain | Technologies |
-|--------|-------------|
-| **Languages** | TypeScript, Rust, Python, JavaScript |
-| **Frontend** | React 19, Vite, Tailwind CSS, Tauri |
-| **AI/ML** | Google Gemini, Gemini Nano (on-device), Claude API |
-| **Backend** | Node.js, Express, Chrome Extension APIs |
-| **Systems** | Rust, WebAssembly, WASM |
+## Stack
 
-## Stats
+| | |
+|---|---|
+| **Languages** | TypeScript, Rust, Python |
+| **AI** | Claude Code, Claude Flow, Gemini, Gemini Nano (on-device) |
+| **Frontend** | React 19, Vite, Tailwind CSS |
+| **Desktop** | Tauri, Electron |
+| **Systems** | Rust, WebAssembly |
+| **Infra** | Node.js, Chrome Extension APIs, MCP Servers |
+
+---
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Clemens865&show_icons=true&theme=dark&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Clemens865&layout=compact&theme=dark&hide_border=true)
+---
 
-## Connect
-
-- [Website](https://www.clemens-hoenig.com)
-- [LinkedIn](https://www.linkedin.com/in/hoenig-clemens-09456b98)
+[Website](https://www.clemens-hoenig.com) ・ [LinkedIn](https://www.linkedin.com/in/hoenig-clemens-09456b98)

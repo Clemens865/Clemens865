@@ -1,45 +1,52 @@
 # Hi, I'm Clemens Hoenig
 
-**Full-Stack Developer & AI Toolmaker** based in Vienna, building Chrome extensions, AI-powered productivity tools, and developer utilities.
+**Full-Stack Developer & AI Engineer** based in Vienna. I build AI-powered products, developer tools, and systems-level software across TypeScript, Rust, and Python.
 
-## What I Do
+## What I Build
 
-I build tools that make AI accessible and useful in everyday workflows - from browser extensions that bring AI directly into your tabs, to developer tools that streamline coding and research.
-
-**Focus areas:** Chrome Extensions, AI/LLM Integration, Developer Tools, Rust Systems Programming
+I turn AI capabilities into practical, shippable products - from on-device AI with Gemini Nano to cloud-scale multi-agent orchestration. I care about developer experience, clean architecture, and making complex technology feel simple.
 
 ## Featured Projects
 
-### [MicroLabs Chrome](https://github.com/Clemens865/micro-labs-chrome)
-AI-powered Chrome extension with **100 micro-apps** for research, content analysis, development, and workflow automation. Built with React 19, TypeScript, and Google Gemini AI. Apps include page analysis, web research agents, code tools, meeting transcription, data visualization, and more.
+### [Perpetua](https://github.com/Clemens865/Perpetua)
+AI-powered knowledge and workflow platform for capturing, connecting, and surfacing information when you need it. Built with TypeScript.
 
 ### [Console-Buddy](https://github.com/Clemens865/Console-Buddy)
-Chrome DevTools companion that enhances your debugging workflow with AI-powered error analysis and console monitoring. **34 stars**
-
-### [Perpetua](https://github.com/Clemens865/Perpetua)
-AI-powered knowledge and workflow platform built with TypeScript. **25 stars**
-
-### [WebhookBuddy](https://github.com/Clemens865/WebhookBuddy)
-Chrome extension for connecting your browser to automation platforms like Make, Zapier, and n8n. **10 stars**
+DevTools companion with AI-powered error analysis - paste a stack trace, get a fix. Understands your console output and suggests solutions in context.
 
 ### [Phago Project](https://github.com/Clemens865/Phago_Project)
-Systems programming project built in Rust. **4 stars**
+Systems-level project built in Rust, exploring performance-critical architecture and memory-safe design patterns.
 
-### [DevDigger](https://github.com/Clemens865/devdigger)
-Knowledge base CLI for AI coding assistants - crawl, index, and search documentation from your terminal.
+### [MicroLabs](https://github.com/Clemens865/micro-labs-chrome)
+100 AI micro-apps in a single Chrome extension - research agents, data visualization, code tools, meeting transcription, PDF analysis, and more. React 19 + Google Gemini.
 
 ### [Buildible](https://github.com/Clemens865/Buildible)
-Free, local, open-source AI app builder - a v0/Lovable/Bolt alternative.
+Open-source AI app builder - a local-first alternative to v0, Lovable, and Bolt. Generate full applications from prompts without sending your code to the cloud.
+
+### [Yourstudio](https://github.com/Clemens865/Yourstudio)
+Open-source website builder - visual editing meets code generation for rapid site creation.
+
+### [Claude-Experimental](https://github.com/Clemens865/Claude-Experimental)
+Rust-based experiments with Claude AI integration - exploring high-performance AI tooling at the systems level.
+
+### [AI Cinematographer](https://github.com/Clemens865/Ai-cinematographer)
+AI-powered video and cinematic content creation tool built with TypeScript.
+
+### [DevDigger](https://github.com/Clemens865/devdigger)
+Knowledge base CLI for AI coding assistants - crawl, index, and semantically search documentation from your terminal.
+
+### [WebhookBuddy](https://github.com/Clemens865/WebhookBuddy)
+Connect your browser to automation platforms (Make, Zapier, n8n) with a lightweight Chrome extension.
 
 ## Tech Stack
 
-**Languages:** TypeScript, Rust, Python, JavaScript
-
-**Frontend:** React, Vite, Tailwind CSS, Chrome Extension APIs
-
-**AI/ML:** Google Gemini, Gemini Nano (on-device), Claude API
-
-**Tools:** Node.js, Tauri, Git
+| Domain | Technologies |
+|--------|-------------|
+| **Languages** | TypeScript, Rust, Python, JavaScript |
+| **Frontend** | React 19, Vite, Tailwind CSS, Tauri |
+| **AI/ML** | Google Gemini, Gemini Nano (on-device), Claude API |
+| **Backend** | Node.js, Express, Chrome Extension APIs |
+| **Systems** | Rust, WebAssembly, WASM |
 
 ## Stats
 

@@ -29,17 +29,11 @@ Systems-level Rust project exploring memory-safe, performance-critical architect
 ### [Claude-Flow](https://github.com/Clemens865/claude-flow)
 Multi-agent orchestration framework for Claude Code. Swarm coordination, task routing, and autonomous agent pipelines.
 
-### [Buildible](https://github.com/Clemens865/Buildible)
-Open-source AI app builder. Local-first alternative to v0/Lovable/Bolt - generate full applications from prompts.
-
 ### [Yourstudio](https://github.com/Clemens865/Yourstudio)
 Open-source website builder. Visual editing meets AI-powered code generation.
 
 ### [Claude-Experimental](https://github.com/Clemens865/Claude-Experimental)
 Rust + Claude API experiments. High-performance AI tooling at the systems level.
-
-### [AI Cinematographer](https://github.com/Clemens865/Ai-cinematographer)
-AI-driven cinematic content generation. Automated video composition and visual storytelling.
 
 ### [DevDigger](https://github.com/Clemens865/devdigger)
 CLI knowledge base for AI coding assistants. Crawl, index, and semantically search any documentation.
